@@ -52,7 +52,7 @@ p{
 }
 
 @media screen and (max-width: 512px){
-    .title{
+    .h1{
         width: 200px;
     }
 }
