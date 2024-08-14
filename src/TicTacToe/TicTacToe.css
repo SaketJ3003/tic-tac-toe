@@ -49,21 +49,13 @@
 }
 p{
     color: #25ffcb;
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
+@media screen and (max-width: 512px){
+    .title{
+        width: 200px;
+    }
+}
 
 
 
